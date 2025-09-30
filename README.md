@@ -24,7 +24,8 @@ The Stock Price Predictor app allows users to:
 
 **⚙️ How to Use:**
 
-git clone https://github.com/yourusername/stock-price-predictor.git
+git clone https://github.com/parminderBadhan/stock-price-predictor.git
+
 cd stock-price-predictor
 
 -------------------------------------------------
