@@ -20,13 +20,6 @@ The Stock Price Predictor app allows users to:
 - TensorFlow (Keras): For building, training, and using the LSTM model.
 - Matplotlib: For visualizing the historical stock price data.
 
--------------------------------------------------
-
-**⚙️ How to Use:**
-
-git clone https://github.com/parminderBadhan/stock-price-predictor.git
-
-cd stock-price-predictor
 
 -------------------------------------------------
 
